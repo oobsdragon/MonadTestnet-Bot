@@ -1,5 +1,4 @@
 aiohttp
-annotated-types==0.7.0
 aiofiles==24.1.0 
 web3
 eth-typing==5.2.0
